@@ -14,7 +14,7 @@ Developes energy data-driven solutions to increase efficiency, accuracy, and uti
 
 Experienced in programming, data management, technology platforms, in creating data regression models, machine learning and deep learning.
 
-Inventor and owner of [international patents] (https://orcid.org/0000-0002-2551-9672) on Methods of optimization using predictive data modeling, data mining algorithms and Artificial Intelligence Agents, to implement action-oriented technology solutions to energy optimization
+Inventor and owner of international patents (https://orcid.org/0000-0002-2551-9672) on Methods of optimization using predictive data modeling, data mining algorithms and Artificial Intelligence Agents, to implement action-oriented technology solutions to energy optimization
 
 [1] IT0001419107, “A method for profiling and scheduling electricity consumption”
 
