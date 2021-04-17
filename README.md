@@ -26,4 +26,5 @@ Inventor and owner of international patents on Methods of optimization using pre
 [5] US10374425B2, “A method and a device for balancing electric consumption” (divisional patent)
 
 [5] RU2666751C2,  “СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ”
+
 [6] EP3028361, “A method and a device for balancing electric consumption” [IT], [AT], [BE], [FR], [DE], [GB], [IL], [MC], [NL], [SI], [ES], [CH]
