@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 **Inventor**, **Enginer**, **Chief Scientific Officer**
 
-Inventor of energy flexibility, computer science and automation engineer, modeling and optimization energy expert, Chief Scientist Officer of Energy Optimization Lab at Tecnalogic.
+Inventor of energy flexibility, computer science and automation engineer, modeling and optimization energy expert, Chief Scientist Officer at Energy Optimization Lab of Tecnalogic.
 
 Owner of international patents on methods of energy optimization using mathematical models, algorithms and machine learning systems.(https://orcid.org/0000-0002-2551-9672) 
 
