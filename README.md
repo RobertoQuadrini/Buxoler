@@ -8,13 +8,11 @@
 Buxoler/Buxoler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm an **inventor**, engineer and Math Model expert.
+**Inventor**, **Enginer**, **Chief Scientific Officer**
 
-Developes energy data-driven solutions to increase efficiency, accuracy, and utility of data processing for the market of energy (Demand-Response, Electric Vehicle-to-Grid, Building-to-Grid, Neural Grid).
+Inventor of energy flexibility, computer science and automation engineer, modeling and optimization energy expert, Chief Scientist Officer of Energy Optimization Lab at Tecnalogic.
 
-Experienced in programming, data management, technology platforms, in creating data regression models, machine learning and deep learning.
-
-Inventor and owner of international patents (https://orcid.org/0000-0002-2551-9672) on Methods of optimization using predictive data modeling, data mining algorithms and Artificial Intelligence Agents, to implement action-oriented technology solutions to energy optimization.
+Owner of international patents on methods of energy optimization using mathematical models, algorithms and machine learning systems.(https://orcid.org/0000-0002-2551-9672) 
 
 [1] IT0001419107, “A method for profiling and scheduling electricity consumption”
 
