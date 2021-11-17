@@ -14,16 +14,19 @@ Inventor of energy flexibility, computer science and automation engineer, modeli
 
 Owner of international patents on methods of energy optimization using mathematical models, algorithms and machine learning systems.(https://orcid.org/0000-0002-2551-9672) 
 
-[1] IT0001419107, “A method for profiling and scheduling electricity consumption”
+[1] IT0001419107, “A method for profiling and scheduling electricity consumption”.
 
-[2] IT0001419109, “A method and a device for balancing electric consumption”
+[2] IT0001419109, “A method and a device for balancing electric consumption”.
 
-[3] IT0001421371, “A method for profiling and scheduling production and feed-in of electrical energy into a power grid”
+[3] IT0001421371, “A method for profiling and scheduling production and feed-in of electrical energy into a power grid”;
 
 [4] US9991705B2, “A method and a device for balancing electric consumption”
 
 [5] US10374425B2, “A method and a device for balancing electric consumption” (divisional patent)
 
-[5] RU2666751C2, “СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ”
+[6] RU2666751C2,  “СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ”.
 
-[6] EP3028361, “A method and a device for balancing electric consumption” [IT], [AT], [BE], [FR], [DE], [GB], [IL], [MC], [NL], [SI], [ES], [CH]
+[7] RU2754484C2 , "СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ" (divisional patent) (https://patents.google.com/patent/RU2754484C2/en?inventor=Quadrini+roberto&oq=Quadrini+roberto) 
+
+[8] EP3028361, “A method and a device for balancing electric consumption” [IT], [AT], [BE], [FR], [DE], [GB], [IL], [MC], [NL], [SI], [ES], [CH]
+
