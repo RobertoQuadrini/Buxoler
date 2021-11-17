@@ -26,7 +26,7 @@ Owner of international patents on methods of energy optimization using mathemati
 
 [6] RU2666751C2,  “СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ”.
 
-[7] RU2754484C2 , "СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ" (divisional patent) (https://patents.google.com/patent/RU2754484C2/en?inventor=Quadrini+roberto&oq=Quadrini+roberto) 
+[7] RU2754484C2 , "СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ" (divisional patent) https://bit.ly/3oFCEBj 
 
 [8] EP3028361, “A method and a device for balancing electric consumption” [IT], [AT], [BE], [FR], [DE], [GB], [IL], [MC], [NL], [SI], [ES], [CH]
 
