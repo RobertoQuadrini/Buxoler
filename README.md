@@ -9,7 +9,7 @@
 Buxoler/Buxoler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Inventor**, **Enginer**, **Chief Scientific Officer**
+**Inventor**, **Engineer**, **Chief Scientific Officer**
 
 Inventor of energy flexibility, computer science and automation engineer, modeling and optimization energy expert, Chief Scientist Officer at Energy Optimization Lab of Tecnalogic.
 
