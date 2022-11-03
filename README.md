@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @buxoler
-- 👀 I’m interested in Energy Flexibity throught Blockchain and Machine Learning
+- 👀 I’m interested in Energy Flexibity throught Math models
 - 🌱 I’m currently learning Linear programming for modeling energy programming of Consumption Unit
-- 💞️ I’m looking to collaborate on Developer Julia and Math modeling
 - 📫 How to reach me buxoler@gmail.com
 
 
