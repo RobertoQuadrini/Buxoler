@@ -15,7 +15,7 @@ Inventor of energy flexibility, computer science and automation engineer, modeli
 
 Owner of international patents on methods of energy optimization using mathematical models, algorithms and machine learning systems.(https://orcid.org/0000-0002-2551-9672) 
 
-[1] IT0001419107, “A method for profiling and scheduling electricity consumption”.
+##[1] IT0001419107, “A method for profiling and scheduling electricity consumption”.
 
 [2] IT0001419109, “A method and a device for balancing electric consumption”.
 
