@@ -36,3 +36,5 @@ You can click the Preview link to take a look at your changes.
 
 [8] **EP3028361**, “A method and a device for balancing electric consumption” [IT], [AT], [BE], [FR], [DE], [GB], [IL], [MC], [NL], [SI], [ES], [CH]
 
+
+
