@@ -11,12 +11,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Inventor, Chief Scientific Officer ##
 
->Member of the commission of expert evaluators for the projects of research relating to the Ministero Transizione Ecologica program agreement. (ENEA, CNR, >RSE).
+>Member of the commission of expert evaluators for the projects of research relating to the **Ministry of the Environment and Energy Security** program agreement. (ENEA, CNR, RSE).
 
 >Inventor of methods for the electrical flexibility by load modulation balancing the power grid.
 
->Design of the "Demand-Response Load Shaping platform" to exchange the electrical flexibility (by consumption modulation) with Transmission System Operator 
->as a resource for the ancillary services (balancing, congestion, reserve).
+>Design of the "Demand-Response Load Shaping platform" to exchange the electrical flexibility (by consumption modulation) with Transmission System Operator as a resource for the ancillary services (balancing, congestion, reserve).
 
 >Development of the Math Engine, the platform that uses different algorithms (artificial neural network, machine learning, deep learning, non-linear >programming and support vector machine) to creating the flexibility for each type of consumption unit..
 
