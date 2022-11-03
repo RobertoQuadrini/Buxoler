@@ -35,6 +35,3 @@ You can click the Preview link to take a look at your changes.
 [7] **RU2754484C2** , "СПОСОБ И УСТРОЙСТВО ДЛЯ ОБЕСПЕЧЕНИЯ БАЛАНСА ПОТРЕБЛЕНИЯ ЭЛЕКТРОЭНЕРГИИ" (divisional patent) https://bit.ly/3oFCEBj 
 
 [8] **EP3028361**, “A method and a device for balancing electric consumption” [IT], [AT], [BE], [FR], [DE], [GB], [IL], [MC], [NL], [SI], [ES], [CH]
-
-
-
